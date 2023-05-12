@@ -4,11 +4,11 @@ export default {
     logo: {
         bottom: {
             //image should be 512px square
-            imgSrc: "images/logo.png",
+            imgSrc: "images/squarelogo2.png",
             position: new Vector3(0, 5.8883, 6.9747)
         },
         top: {
-            name: "BRAND\nNAME",
+            name: "L’Oréal",
             fontSize: 10,
             color: new Color3(0.1, 0.1, 0.1),
             position: new Vector3(0, 10.8, 7.15)
@@ -17,7 +17,7 @@ export default {
     nftImage: [
         {
             name: "image 1",
-            imgSrc: "images/001.png",
+            imgSrc: "images/squarelogo2.png",
             link: "https://www.decentraland.org",
             width: 512,
             height: 512,
@@ -25,7 +25,7 @@ export default {
         },
         {
             name: "image 2",
-            imgSrc: "images/002.png",
+            imgSrc: "images/product_1.png",
             link: "",
             width: 256,
             height: 512,
@@ -33,7 +33,7 @@ export default {
         },
         {
             name: "image 3",
-            imgSrc: "images/003.png",
+            imgSrc: "images/reclogo2.png",
             link: "",
             width: 512,
             height: 256,
@@ -41,7 +41,7 @@ export default {
         },
         {
             name: "image 4",
-            imgSrc: "images/004.png",
+            imgSrc: "images/product_2.png",
             link: "",
             width: 512,
             height: 512,
