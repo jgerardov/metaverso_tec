@@ -14,7 +14,10 @@
   "tags": [],
   "scene": {
     "parcels": ["0,0"],
-    "base": "0,0"
+    "base": "0,0",
+    "ground": {
+      "texture": "images/smooth-white-stucco-wall_1194-6786.jpg"
+    }
   },
   "spawnPoints": [
     {
