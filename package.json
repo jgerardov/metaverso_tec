@@ -21,6 +21,7 @@
 		"yarn": "please use npm"
 	},
 	"dependencies": {
+		"@dcl/builder-hud": "^1.0.2",
 		"@dcl/ecs-scene-utils": "^1.7.5",
 		"@dcl/ui-scene-utils": "^1.8.3"
 	},
