@@ -1,18 +1,6 @@
-# Museum Template
+# Metaverse prototype: version 1
 
- A simple generic virtual museum for displaying NFT art
-
-
-![](screenshot/screenshot.png)
-
-This scene shows you:
-
-- How to add NFT picture frames
-- How to add a streaming video
-- How to add a POAP booth
-- How to add external links
-- How to organize the scene's content into neat modular components that are easy to change from a config file
-
+https://docs.google.com/presentation/d/14_xOXEDL-IFVBuEux5T_w5cYgh4gCLuIdVcqB-ECKvk/edit?usp=sharing
 
 ## Try it out
 
